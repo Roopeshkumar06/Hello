@@ -7,3 +7,8 @@ git commit -m "message"-> the message property tells what changes we have made r
 git status -> gives what is going on in the local repository with respect to the github
 git push-> going to push it to the github
 git commit -am-> git commit all the files that have been changes with the message
+
+//Until now we have pushed to the git hub let us pull some from the github and let us do it
+git pull-> pulles the latest code that is on the github
+
+//Merge conflicts
