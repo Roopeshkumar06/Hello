@@ -6,3 +6,4 @@ the step is needed because if we are working on ten different files and if I wan
 git commit -m "message"-> the message property tells what changes we have made recently so that they can be used later. Now we dont see this on the github because whatever we have made did only to the local repository now we have to push it to the github
 git status -> gives what is going on in the local repository with respect to the github
 git push-> going to push it to the github
+git commit -am-> git commit all the files that have been changes with the message
