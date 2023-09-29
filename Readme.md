@@ -33,3 +33,9 @@ fix the issue we will merge the branches
 git branch->tells us on which branch we are (*)
 git checkout -b <name of new branch>--> switches to a new brach of given name
 
+fork-> fork is something we make copy of someone's repository so that we can make some changes to it and then we can make pull requests to it because everybody doesn't allow us to make changes to the code so we make pull request for them so that when they are satisfied of our code they will accept our pull requests.
+
+
+git hub pages-> free way github provides to be able to make html css js can everybody look at
+
+
